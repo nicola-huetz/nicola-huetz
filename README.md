@@ -14,14 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Hi there, I'm Nicola 👋
-
+# Hi there, I'm Nicola 👋
 
 
 - 📍 Based in London
-
 - 📊 Tableau, Power BI, Alteryx & SQL
-
 - 🔭 I’m currently working on Git, GitHub, SQL & dbt
 
 
